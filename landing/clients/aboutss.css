@@ -1,0 +1,109 @@
+table tr th{
+    background-color: rgb(238, 141, 15);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    
+}
+
+
+table tr th a{
+  text-decoration: none;
+}
+.back {
+background-image: url('pics/ella-olsson.jpg');
+text-align: center;
+color: rgb(13, 17, 12);
+align-items: center;
+font-size: 33px;
+font-family: cursive;
+ }
+
+ .hard_food img{
+height: 190px;
+width: 100%;
+ }
+
+
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+/* Fixed sidenav, full height */
+ .sidenav {
+ 
+ 
+  
+} 
+
+/* Style the sidenav links and the dropdown button */
+.sidenav a, .dropdown-btn {
+ 
+  text-decoration: none;
+  font-size: 20px;
+  color: #080202;
+  display: block;
+  border: none;
+  background: none;
+ 
+  
+  cursor: pointer;
+  outline: none;
+}
+
+/* On mouse-over */
+.sidenav a:hover, .dropdown-btn:hover {
+  color: #f1f1f1;
+}
+
+/* Main content */
+.main {
+   /* Same as the width of the sidenav */
+   /* Increased text to enable scrolling */
+  
+}
+
+/* Add an active class to the active dropdown button */
+.active {
+  background-color: rgb(4, 2, 85);
+  color: white;
+}
+
+/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+.dropdown-container {
+  display: none;
+  background-color: #262626;
+  padding-left: 8px;
+}
+
+/* Optional: Style the caret down icon */
+.fa-caret-down {
+  float: right;
+  padding-right: 8px;
+}
+
+
+p strong{
+  background-color: #192b02;
+  font-weight: 700;
+  font-family: cursive;
+  color: #0294c0;
+  border: 2px solid black;
+  height: auto;
+  width: auto;
+  box-sizing: 5px;
+  box-shadow: 0px 0px 40px black;
+}
+
+
+table tr td ul li{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0rem 0rem 5rem ;
+  margin-left: -30px;
+}
+/* Some media queries for responsiveness */
+/* @media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+} */

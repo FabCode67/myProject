@@ -1,0 +1,105 @@
+/* html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: var(--black);
+    
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  header{
+     display: flex;
+    justify-content: space-between; 
+    background-color: orange;
+   
+  }
+  .log{
+    font-family: cursive;
+    font-size: 30px;
+  }
+  header .navbar{
+    display: flex;
+    text-align: center;
+    align-items: center;
+justify-content: space-between;
+  }
+  .nav .navbar a{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  #home{
+    margin-left: -300px;
+  }
+  p{
+    background-image: url('image1.jpg');
+    height: 420px;
+  }
+  .welcome p{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    font-size: 40px;
+    color: white;
+    font-family: cursive;
+  }
+/*  */
+   /* table img{
+    height: 200px;
+    width: 330px;
+    display: flex;
+    flex-wrap: wrap;
+   }
+
+   table b{
+    margin: auto;
+    padding: 1rem;
+   }
+   table span{
+    margin: auto;
+    padding: 1rem;
+   }
+   table button{
+    margin: auto; */
+     /* padding: 1rem;  */
+    /* background-color: black;
+    border: 2px solid black;
+    color: white;
+    font-family: cursive;
+    border-radius: 10px;
+    height: 25px;
+    cursor: pointer;
+   }
+table tr td{
+    flex-wrap: wrap;
+} */ 
+/* .burger{
+    margin-top: 100px;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    /* margin-left: 200px; */
+/* }
+
+.button{
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    height: 200px;
+    padding: 1rem;
+} */
+
+/* #info1{
+    margin: auto;
+    margin-left: -800px;
+}
+ */
